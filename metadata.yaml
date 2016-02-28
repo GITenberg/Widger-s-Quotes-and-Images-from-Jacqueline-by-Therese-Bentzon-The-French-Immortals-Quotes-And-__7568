@@ -1,0 +1,36 @@
+_repo: Widger-s-Quotes-and-Images-from-Jacqueline-by-Therese-Bentzon-The-French-Immortals-Quotes-And-__7568
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Bentzon, Th.
+    aliases:
+    - Bentzan, Thérèse
+    - Bentzon, Thérèse
+    - Bentzon, Théodore
+    - Blanc, Marie Therese de Soloms
+    - Blanc, Marie Thérèse de Soloms
+    birthdate: 1840
+    deathdate: 1907
+    gutenberg_agent_id: '1347'
+    url: http://www.gutenberg.org/2009/agents/1347
+description: ''
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Quotations, French -- Translations into English'
+title: "Widger's Quotes and Images from Jacqueline by Therese Bentzon\r\nThe French\
+  \ Immortals: Quotes And Images"
+url: http://www.gutenberg.org/ebooks/7568
